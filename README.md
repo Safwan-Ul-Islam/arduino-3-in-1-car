@@ -13,8 +13,8 @@ The car is designed to be versatile, educational, and fun — a great example of
 
 
 <p align="center">
-  <img src="1-2.png" width="20%">
-  <img src="2-2.png" width="20%">
+  <img src="1-2.png" width="50%">
+  <img src="2-2.png" width="50%">
 </p>
 
 
